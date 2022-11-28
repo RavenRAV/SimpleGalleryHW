@@ -14,6 +14,7 @@ class MainActivity : BaseActivity<ActivityMainBinding>() {
     private val selectedImgs = arrayListOf<GalleryModel>()
     private lateinit var adapter: GalleryAdapter
 
+
     override fun checkInternet() {
 
     }
