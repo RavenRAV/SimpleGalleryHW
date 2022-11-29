@@ -57,7 +57,6 @@ class MainActivity : BaseActivity<ActivityMainBinding>() {
 
         Log.e("ololo", selectedImgs.toString(), )
 
-
     }
 
 
